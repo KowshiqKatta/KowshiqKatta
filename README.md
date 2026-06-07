@@ -47,7 +47,7 @@ LLM Agents | Metadata Knowledge Graphs | Data Governance Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KowshiqKatta&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KowshiqKatta7&theme=tokyonight" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KowshiqKatta)](https://git.io/streak-stats)
 </p>
 
 ## 🐍 Dynamic Contribution Grid
