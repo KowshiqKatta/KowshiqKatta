@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Kattamuri Kowshiq
 
-<!--
-**KowshiqKatta/KowshiqKatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Engineer | Manager & Governance Analyst | AI Data Infrastructure Engineer
+Building scalable data systems • Metadata Knowledge Graphs • Automation • Cloud
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Working at **Accenture**
+- 🏗️ Designing and building **reliable, scalable data pipelines & AI infrastructure**
+- ⚙️ Hands-on with **Python, PostgreSQL, Docker, and LLM Agents**
+- 💼 Open to **collaborations, data governance insights, and community content**
+- ✍️ Sharing learnings via **code, automated pipelines, and intelligent data solutions**
+
+## 🔥 Engineering Mindset
+
+- 📌 *Daily code pushes* (enterprise architecture + intelligent automation)
+- 📈 Focused on *clean, production-grade commits and automation*
+- 🧠 Improving *performance, scalability, and distributed systems*
+- ⚡ Strong focus on *real-world problem solving using Generative AI and Data Ops*
+
+> *Consistency beats intensity — shipping every day.*
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+Python | SQL | LangChain
+
+### ⚡ Big Data, Databases & Orchestration
+PostgreSQL | Change Data Capture (CDC) | Batch Processing
+
+### ☁️ Cloud & Infrastructure
+Docker | Cloud Data Environments
+
+### 🤖 AI & Governance
+LLM Agents | Metadata Knowledge Graphs | Data Governance Analytics
+
+## 🌱 Currently Exploring
+- 🔍 Advanced **LLM Agent orchestration & LangChain frameworks**
+- ⚡ **Automated smart ingestion pipelines with change detection**
+- 🏗️ **AI-powered automated SQL generation systems**
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KowshiqKatta&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KowshiqKatta&layout=compact&theme=dark)
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [in/kattamurikowshiq](https://www.linkedin.com/in/kattamurikowshiq)
+- 📧 Email: kattamurikowshiq@gmail.com
+- 🚀 Open to collaboration, ideas, and building impactful systems
+
+*If you like my work, consider following or connecting!*
