@@ -45,9 +45,9 @@ LLM Agents | Metadata Knowledge Graphs | Data Governance Analytics
 
 ## 📊 GitHub System Activity
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KowshiqKatta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kowshiq's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KowshiqKatta&layout=compact&theme=tokyonight&langs_count=6" alt="Kowshiq's Top Languages" height="195" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KowshiqKatta&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KowshiqKatta7&theme=tokyonight" />
 </p>
 
 ## 🐍 Dynamic Contribution Grid
