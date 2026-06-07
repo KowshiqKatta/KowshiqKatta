@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kattamuri Kowshiq
 
-### 🚀 Data Engineer | Manager & Governance Analyst | AI Data Infrastructure Engineer
+### Data Engineer, Manager & Governance Analyst | AI Data Infrastructure Engineer
 Building scalable data systems • Metadata Knowledge Graphs • Automation • Cloud
 
 ---
@@ -62,6 +62,6 @@ LLM Agents | Metadata Knowledge Graphs | Data Governance Analytics
 
 - 💼 LinkedIn: [in/kattamurikowshiq](https://www.linkedin.com/in/kattamurikowshiq)
 - 📧 Email: kattamurikowshiq@gmail.com
-- 🚀 Open to collaboration, ideas, and building impactful systems
+- Open to collaboration, ideas, and building impactful systems
 
 *If you like my work, consider following or connecting!*
