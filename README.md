@@ -43,10 +43,21 @@ LLM Agents | Metadata Knowledge Graphs | Data Governance Analytics
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub System Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KowshiqKatta&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KowshiqKatta&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KowshiqKatta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kowshiq's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KowshiqKatta&layout=compact&theme=tokyonight&langs_count=6" alt="Kowshiq's Top Languages" height="192px" />
+</p>
+
+## 🐍 Dynamic Contribution Grid
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KowshiqKatta/KowshiqKatta/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KowshiqKatta/KowshiqKatta/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/KowshiqKatta/KowshiqKatta/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 
 ## 🤝 Let's Connect
 
