@@ -15,13 +15,22 @@
     <a href="https://www.linkedin.com/in/kattamurikowshiq">
       <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://www.youtube.com/@KattamuriKowshiq">
+      <img src="https://img.shields.io/badge/Watch-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://www.amazon.in/Wizard-Problems-Mathematics-Kowshiq-Kattamuri/dp/9390447712">
+      <img src="https://img.shields.io/badge/Read-My_Book-002F6C?style=for-the-badge&logo=amazon&logoColor=white" alt="Book" />
+    </a>
   </p>
 </div>
 
 ---
 
 ## About Me
-I am a Data Engineering, Management & Governance Analyst at Accenture with a strong interest in Machine Learning, Generative AI, and AI-powered data systems. My work focuses on building scalable data infrastructure, metadata driven architectures, intelligent automation frameworks, and LLM enabled analytics solutions. I enjoy operating at the intersection of Data Engineering, AI Infrastructure, and Applied Machine Learning. Beyond enterprise systems, I have a deep passion for teaching, writing, and mathematics, holding distinction as an author, YouTuber, and Abacus Grand Master.
+
+I am a Data Engineering, Management & Governance Analyst at Accenture with a strong interest in Machine Learning, Generative AI, and AI-powered data systems. My work focuses on building scalable data infrastructure, metadata-driven architectures, intelligent automation frameworks, and LLM-enabled analytics solutions. I enjoy operating at the intersection of Data Engineering, AI Infrastructure, and Applied Machine Learning. 
+
+Beyond enterprise systems, I have a deep passion for tutoring, content creation, and mathematics holding distinction as an Abacus Grand Master, published Author of **[100 Wizard Problems of Mathematics](https://www.amazon.in/Wizard-Problems-Mathematics-Kowshiq-Kattamuri/dp/9390447712)**, and tech creator on my YouTube channel, **[Kattamuri Kowshiq](https://www.youtube.com/@KattamuriKowshiq)**.
 
 <table>
   <tr>
