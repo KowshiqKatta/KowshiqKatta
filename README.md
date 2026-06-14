@@ -66,6 +66,30 @@ I am a Data Engineering, Management & Governance Analyst and an AI Data Infrastr
   </tr>
 </table>
 
+## Academic & Professional Credentials
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Graduate Aptitude Test in Engineering (GATE)</h3>
+      <ul>
+        <li><b>GATE Data Science & Artificial Intelligence (DA)</b> – Score: 723</li>
+        <li><b>GATE Computer Science & Engineering (CSE)</b> – Score: 640</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Selected Certifications</h3>
+      <ul>
+        <li>Applied Linear Algebra in AI & ML (NPTEL)</li>
+        <li>SQL50 Badge (LeetCode)</li>
+        <li>Postman API Fundamentals Student Expert</li>
+        <li>Data Structures & Algorithms in C++</li>
+        <li>Basic Calculus I & II (NPTEL)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
 <div align="center">
