@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0EA5E9,45:6366F1,100:14B8A6&text=Kowshiq%20Kattamuri&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=52&desc=Data%20Engineering%20%7C%20AI%20Data%20Infrastructure%20%7C%20NIT%20Calicut%20%2724&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Engineering+%26+Governance+Analyst;Building+scalable+AI+data+infrastructure;Python+%7C+PostgreSQL+%7C+Docker+%7C+LangChain;730%2B+LeetCode+problems+solved;Abacus+Grand+Master+%2C+Author+%26+Math+Geek" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Engineering+%26+AI+Infrastructure;Building+scalable+AI-ready+data+systems;Python+%7C+PostgreSQL+%7C+Docker+%7C+LangChain;GATE+DA+AIR+281+%7C+730%2B+LeetCode+Problems;Author+%7C+Speaker+%7C+Community+Builder" alt="Typing SVG" />
   </a>
 
   <p>
@@ -21,7 +21,7 @@
 ---
 
 ## About Me
-I am a Data Engineering, Management & Governance Analyst and an AI Data Infrastructure Engineer at Accenture. A graduate of NIT Calicut, I build robust data pipelines, intelligent automation frameworks, and metadata knowledge graphs. Beyond enterprise systems, I have a deep passion for teaching, writing, and mathematics, holding distinction as an author, YouTuber, and Abacus Grand Master.
+I am a Data Engineering, Management & Governance Analyst at Accenture with a strong interest in Machine Learning, Generative AI, and AI-powered data systems. My work focuses on building scalable data infrastructure, metadata driven architectures, intelligent automation frameworks, and LLM enabled analytics solutions. I enjoy operating at the intersection of Data Engineering, AI Infrastructure, and Applied Machine Learning. Beyond enterprise systems, I have a deep passion for teaching, writing, and mathematics, holding distinction as an author, YouTuber, and Abacus Grand Master.
 
 <table>
   <tr>
@@ -39,7 +39,10 @@ I am a Data Engineering, Management & Governance Analyst and an AI Data Infrastr
       <h3>Quick Signal</h3>
       <ul>
         <li>B.Tech, National Institute of Technology Calicut (2020-2024)</li>
-        <li>Advanced Application Engineering Analyst at Accenture</li>
+        <li>Data Engineering, Management and Governance Analyst at Accenture</li>
+        <li>GATE DA 2026: AIR 281 | Score 723</li>
+        <li>GATE CSE 2026: AIR 2179 | Score 640</li>
+        <li>NPTEL Certified in Applied Linear Algebra for AI & ML</li>
         <li>730+ LeetCode problems solved (C++, MySQL, JS)</li>
         <li>Abacus Grand Master & Math Geek</li>
         <li>Tech Speaker, Author, YouTuber & Tutor</li>
