@@ -71,27 +71,42 @@ I am a Data Engineering, Management & Governance Analyst at Accenture with a str
 
 ## Academic & Professional Credentials
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Graduate Aptitude Test in Engineering (GATE)</h3>
-      <ul>
-        <li><b>GATE Data Science & Artificial Intelligence (DA)</b> – Score: 723</li>
-        <li><b>GATE Computer Science & Engineering (CSE)</b> – Score: 640</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Selected Certifications</h3>
-      <ul>
-        <li>Applied Linear Algebra in AI & ML (NPTEL)</li>
-        <li>SQL50 Badge (LeetCode)</li>
-        <li>Postman API Fundamentals Student Expert</li>
-        <li>Data Structures & Algorithms in C++</li>
-        <li>Basic Calculus I & II (NPTEL)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left" style="padding: 10px;">
+          <h3>🚀 Core Data Engineering</h3>
+          <hr size="1" color="#38BDF8" />
+          <br />
+          <b>🔹 Professional Data Engineer in Python</b> — <i>DataCamp</i><br />
+          <small>Advanced containerization (Docker), schema orchestration (dbt), and high-throughput big data streaming pipelines (PySpark, Apache Kafka).</small>
+          <br /><br />
+          <b>🔹 Associate Data Engineer in SQL</b> — <i>DataCamp</i><br />
+          <small>Relational database architecture, advanced indexing, and structural query optimization utilizing production PostgreSQL and Snowflake engines.</small>
+          <br /><br />
+          <b>🔹 Modern Data Engineering Essentials</b> — <i>Pearson</i><br />
+          <small>Architecting modern analytics workloads leveraging lightweight analytical compute (DuckDB) alongside robust orchestrators (dbt, Airflow, Dagster).</small>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left" style="padding: 10px;">
+          <h3>🤖 Applied AI & Academic Elite</h3>
+          <hr size="1" color="#14B8A6" />
+          <br />
+          <b>👑 GATE DA (Data Science & AI)</b> — <i>All India Rank 281</i><br />
+          <small>Demonstrated elite foundational mastery across Probability, Linear Algebra, Machine Learning models, and Deep Database Architectures.</small>
+          <br /><br />
+          <b>🔹 Fundamentals of AI Engineering</b> — <i>LinkedIn Learning</i><br />
+          <small>Designing production RAG frameworks, fine-tuning retrieval logic using vector databases, hybrid search pipelines, and LLM observability.</small>
+          <br /><br />
+          <b>🥈 Quantum Computing & Algorithms</b> — <i>NPTEL (IIT Madras)</i><br />
+          <small><b>Topper (Top 5% Elite + Silver)</b>. Evaluated on quantum mechanics foundations, Shor's/Grover's algorithms, and hands-on Qiskit circuit design.</small>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Tech Stack
 
