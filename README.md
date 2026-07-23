@@ -28,9 +28,11 @@
 
 ## About Me
 
-I am a Data Engineering, Management & Governance Analyst at Accenture with a strong interest in Machine Learning, Generative AI, and AI-powered data systems. My work focuses on building scalable data infrastructure, metadata-driven architectures, intelligent automation frameworks, and LLM-enabled analytics solutions. I enjoy operating at the intersection of Data Engineering, AI Infrastructure, and Applied Machine Learning. 
+I am an **M.Tech AI Scholar at IIT Roorkee** and an experienced **AI Data Engineer** with a specialized focus on Data Warehousing (DWH), enterprise AI integrations (RAG, Agentic AI, MCP servers), scalable data processing platforms, and automated ingestion frameworks with built-in change detection. 
 
-Beyond enterprise systems, I have a deep passion for tutoring, content creation, and mathematics holding distinction as an Abacus Grand Master, published Author of **[100 Wizard Problems of Mathematics](https://www.amazon.in/Wizard-Problems-Mathematics-Kowshiq-Kattamuri/dp/9390447712)**, and tech creator on my YouTube channel, **[Kattamuri Kowshiq](https://www.youtube.com/@KattamuriKowshiq)**.
+My work bridges the gap between high-throughput Data Engineering and modern AI Infrastructure—building reliable metadata-driven architectures, multi-tenant data pipelines, and LLM orchestration systems.
+
+Beyond enterprise systems, I am an Abacus Grand Master, published Author of [100 Wizard Problems of Mathematics](https://www.amazon.in/Wizard-Problems-Mathematics-Kowshiq-Kattamuri/dp/9390447712), and tech content creator on my YouTube channel, [Kattamuri Kowshiq](https://www.youtube.com/@KattamuriKowshiq).
 
 <table>
   <tr>
@@ -47,8 +49,9 @@ Beyond enterprise systems, I have a deep passion for tutoring, content creation,
     <td width="50%">
       <h3>Quick Signal</h3>
       <ul>
+        <li>M.Tech in AI, Indian Institute of Technology (IIT) Roorkee (2026 – 2028)</li>
         <li>B.Tech, National Institute of Technology Calicut (2020-2024)</li>
-        <li>Data Engineering, Management and Governance Analyst at Accenture</li>
+        <li>Ex-Data Engineering, Management and Governance Analyst at Accenture</li>
         <li>GATE DA 2026: AIR 281 | Score 723</li>
         <li>GATE CSE 2026: AIR 2179 | Score 640</li>
         <li>NPTEL Certified in Applied Linear Algebra for AI & ML</li>
@@ -142,7 +145,7 @@ Beyond enterprise systems, I have a deep passion for tutoring, content creation,
       <h3>Accenture</h3>
       <b>Advanced Application Engineering Analyst</b><br />
       Data Engineering, Management & Governance<br />
-      2024 - Present
+      2024 - 2026
     </td>
     <td width="65%">
       <ul>
